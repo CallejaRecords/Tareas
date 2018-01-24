@@ -1,0 +1,9 @@
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.1 (Personas)\Trabajo 1.1 (Personas)\bin\Debug\Trabajo 1.1 (Personas).exe.config
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.1 (Personas)\Trabajo 1.1 (Personas)\bin\Debug\Trabajo 1.1 (Personas).exe
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.1 (Personas)\Trabajo 1.1 (Personas)\bin\Debug\Trabajo 1.1 (Personas).pdb
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.1 (Personas)\Trabajo 1.1 (Personas)\obj\Debug\Trabajo 1.1 (Personas).csprojResolveAssemblyReference.cache
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.1 (Personas)\Trabajo 1.1 (Personas)\obj\Debug\Trabajo 1.1 (Personas).exe
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.1 (Personas)\Trabajo 1.1 (Personas)\obj\Debug\Trabajo 1.1 (Personas).pdb
+C:\Users\Brian\Desktop\Trabajo 1.1 (Personas)\Trabajo 1.1 (Personas)\bin\Debug\Trabajo 1.1 (Personas).exe.config
+C:\Users\Brian\Desktop\Trabajo 1.1 (Personas)\Trabajo 1.1 (Personas)\obj\Debug\Trabajo 1.1 (Personas).exe
+C:\Users\Brian\Desktop\Trabajo 1.1 (Personas)\Trabajo 1.1 (Personas)\obj\Debug\Trabajo 1.1 (Personas).pdb
