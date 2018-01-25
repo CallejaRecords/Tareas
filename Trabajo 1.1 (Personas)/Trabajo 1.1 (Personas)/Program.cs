@@ -10,8 +10,10 @@ namespace Trabajo_1._1__Personas_
     {
         static void Main(string[] args)
         {
-            var estudiante = new Estudiante { nombre = "Brian", edad = 20, genero = true, matricula = 21088, carrera = "ICC", habilidad = };
-            Console.WriteLine(estudiante.nombre + estudiante.edad + estudiante.genero + estudiante.matricula + estudiante.carrera);
+            var estudiante = new Estudiante { nombre = "Brian", edad = 20, genero = true, matricula = 21088, carrera = "ICC"};
+            Console.WriteLine(estudiante.nombre + " " + estudiante.edad + " " + estudiante.genero + " " + estudiante.matricula + " " + estudiante.carrera);
+            estudiante.moverbrazoD();
+            estudiante.moverpiernaD();
             Console.ReadLine();
         }
     }

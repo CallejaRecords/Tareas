@@ -12,12 +12,18 @@ namespace Trabajo_1._1__Personas_
         public int edad { get; set; }
         public bool genero { get; set; }
 
-        public IMotriz habilidad { get; set; }
+        public IMotriz brazoD = new BrazoD();
+        public IMotriz piernaD = new PiernaD();
 
         public void respirar() { }
-        public void IMotriz
-        {
 
+        public void moverbrazoD()
+        {
+            brazoD.Mover();
+        }
+        public void moverpiernaD()
+        {
+            piernaD.Mover();
         }
     }
 }
