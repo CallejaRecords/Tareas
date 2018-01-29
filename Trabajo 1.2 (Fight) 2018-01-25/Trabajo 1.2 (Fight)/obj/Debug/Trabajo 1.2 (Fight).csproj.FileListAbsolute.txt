@@ -1,0 +1,12 @@
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.2 (Fight)\Trabajo 1.2 (Fight)\bin\Debug\Trabajo 1.2 (Fight).exe.config
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.2 (Fight)\Trabajo 1.2 (Fight)\bin\Debug\Trabajo 1.2 (Fight).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.2 (Fight)\Trabajo 1.2 (Fight)\bin\Debug\Trabajo 1.2 (Fight).pdb
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.2 (Fight)\Trabajo 1.2 (Fight)\obj\Debug\Trabajo 1.2 (Fight).csprojResolveAssemblyReference.cache
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.2 (Fight)\Trabajo 1.2 (Fight)\obj\Debug\Trabajo 1.2 (Fight).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.2 (Fight)\Trabajo 1.2 (Fight)\obj\Debug\Trabajo 1.2 (Fight).pdb
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.2 (Fight)\Trabajo 1.2 (Fight)\bin\Debug\Trabajo 1.2 (Fight).exe.config
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.2 (Fight)\Trabajo 1.2 (Fight)\obj\Debug\Trabajo 1.2 (Fight).exe
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.2 (Fight)\Trabajo 1.2 (Fight)\obj\Debug\Trabajo 1.2 (Fight).pdb
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.2 (Fight)\Trabajo 1.2 (Fight)\bin\Debug\Trabajo 1.2 (Fight).exe
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.2 (Fight)\Trabajo 1.2 (Fight)\bin\Debug\Trabajo 1.2 (Fight).pdb
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.2 (Fight)\Trabajo 1.2 (Fight)\obj\Debug\Trabajo 1.2 (Fight).csprojResolveAssemblyReference.cache
