@@ -1,0 +1,6 @@
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.3 (Patrones de Diseño)\Trabajo 1.3 (Patrones de Diseño)\bin\Debug\Trabajo 1.3 (Patrones de Diseño).exe.config
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.3 (Patrones de Diseño)\Trabajo 1.3 (Patrones de Diseño)\bin\Debug\Trabajo 1.3 (Patrones de Diseño).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.3 (Patrones de Diseño)\Trabajo 1.3 (Patrones de Diseño)\bin\Debug\Trabajo 1.3 (Patrones de Diseño).pdb
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.3 (Patrones de Diseño)\Trabajo 1.3 (Patrones de Diseño)\obj\Debug\Trabajo 1.3 (Patrones de Diseño).csprojResolveAssemblyReference.cache
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.3 (Patrones de Diseño)\Trabajo 1.3 (Patrones de Diseño)\obj\Debug\Trabajo 1.3 (Patrones de Diseño).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.3 (Patrones de Diseño)\Trabajo 1.3 (Patrones de Diseño)\obj\Debug\Trabajo 1.3 (Patrones de Diseño).pdb
