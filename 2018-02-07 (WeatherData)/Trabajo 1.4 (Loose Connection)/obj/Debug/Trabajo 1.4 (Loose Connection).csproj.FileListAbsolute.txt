@@ -1,0 +1,6 @@
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.4 (Loose Connection)\Trabajo 1.4 (Loose Connection)\bin\Debug\Trabajo 1.4 (Loose Connection).exe.config
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.4 (Loose Connection)\Trabajo 1.4 (Loose Connection)\bin\Debug\Trabajo 1.4 (Loose Connection).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.4 (Loose Connection)\Trabajo 1.4 (Loose Connection)\bin\Debug\Trabajo 1.4 (Loose Connection).pdb
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.4 (Loose Connection)\Trabajo 1.4 (Loose Connection)\obj\Debug\Trabajo 1.4 (Loose Connection).csprojResolveAssemblyReference.cache
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.4 (Loose Connection)\Trabajo 1.4 (Loose Connection)\obj\Debug\Trabajo 1.4 (Loose Connection).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.4 (Loose Connection)\Trabajo 1.4 (Loose Connection)\obj\Debug\Trabajo 1.4 (Loose Connection).pdb
