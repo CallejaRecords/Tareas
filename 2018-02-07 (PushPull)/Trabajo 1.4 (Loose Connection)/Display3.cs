@@ -18,11 +18,18 @@ namespace Trabajo_1._4__Loose_Connection_
             Console.WriteLine("Display 3 On: " + resultado);
         }
 
-        public void update(float temp, float humidity, float pressure)
+        public void update(Subject observando, object dato)
         {
-            this.temperatura = temp;
-            this.humedad = humidity;
-            this.presion = pressure;
+            if (observando.GetType() == typeof(weatherData))
+            {
+
+                Console.WriteLine("entre");
+                weatherData weather = new weatherData();
+                this.temperatura = weather.temp;
+                this.humedad = weather.humidity;
+                this.presion = weather.pressure;
+            }
+
         }
     }
 }

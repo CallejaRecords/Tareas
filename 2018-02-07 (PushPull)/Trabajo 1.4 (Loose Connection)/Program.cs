@@ -14,7 +14,7 @@ namespace Trabajo_1._4__Loose_Connection_
             float temp = 20;
             float humidity = 20;
             float pressure = 20;
-            api.messurementChanged(temp, humidity, pressure);
+            
             Observer display1 = new Display1();
             Observer display2 = new Display2();
             Observer display3 = new Display3();
@@ -22,7 +22,7 @@ namespace Trabajo_1._4__Loose_Connection_
             api.registerObserver(display2);
             api.registerObserver(display3);
             api.removeObserver(display2);
-            api.notifyObserver();
+            api.messurementChanged(temp, humidity, pressure);
             display1.display();
             display2.display();
             display3.display();

@@ -8,7 +8,8 @@ namespace Trabajo_1._4__Loose_Connection_
 {
     interface Observer
     {
-        void update(float temp, float humidity, float pressure);
+        //void update(float temp, float humidity, float pressure);
+        void update(Subject s, object dato);
         void display();
     }
 }

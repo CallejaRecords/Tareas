@@ -8,9 +8,9 @@ namespace Trabajo_1._4__Loose_Connection_
 {
     class weatherData : Subject
     {
-        float temp { get; set; }
-        float humidity { get; set; }
-        float pressure { get; set; }
+        public float temp { get; set; }
+        public float humidity { get; set; }
+        public float pressure { get; set; }
 
         List<Observer> subscribers = new List<Observer>();
 
@@ -18,7 +18,7 @@ namespace Trabajo_1._4__Loose_Connection_
         {
             foreach (Observer clientes in subscribers)
             {
-                clientes.update(temp,humidity,pressure);
+                clientes.update(this, temp);
             }
         }
 
