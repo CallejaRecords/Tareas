@@ -1,0 +1,6 @@
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.6 (Observer Final)\Trabajo 1.6 (Observer Final)\bin\Debug\Trabajo 1.6 (Observer Final).exe.config
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.6 (Observer Final)\Trabajo 1.6 (Observer Final)\bin\Debug\Trabajo 1.6 (Observer Final).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.6 (Observer Final)\Trabajo 1.6 (Observer Final)\bin\Debug\Trabajo 1.6 (Observer Final).pdb
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.6 (Observer Final)\Trabajo 1.6 (Observer Final)\obj\Debug\Trabajo 1.6 (Observer Final).csprojResolveAssemblyReference.cache
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.6 (Observer Final)\Trabajo 1.6 (Observer Final)\obj\Debug\Trabajo 1.6 (Observer Final).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.6 (Observer Final)\Trabajo 1.6 (Observer Final)\obj\Debug\Trabajo 1.6 (Observer Final).pdb
