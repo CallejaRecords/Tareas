@@ -1,0 +1,6 @@
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.7 (Wrapper)\Trabajo 1.7 (Wrapper)\bin\Debug\Trabajo 1.7 (Wrapper).exe.config
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.7 (Wrapper)\Trabajo 1.7 (Wrapper)\obj\Debug\Trabajo 1.7 (Wrapper).csprojResolveAssemblyReference.cache
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.7 (Wrapper)\Trabajo 1.7 (Wrapper)\bin\Debug\Trabajo 1.7 (Wrapper).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.7 (Wrapper)\Trabajo 1.7 (Wrapper)\bin\Debug\Trabajo 1.7 (Wrapper).pdb
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.7 (Wrapper)\Trabajo 1.7 (Wrapper)\obj\Debug\Trabajo 1.7 (Wrapper).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.7 (Wrapper)\Trabajo 1.7 (Wrapper)\obj\Debug\Trabajo 1.7 (Wrapper).pdb
