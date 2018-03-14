@@ -1,0 +1,6 @@
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.9 (Pizza Store)\Trabajo 1.9 (Pizza Store)\bin\Debug\Trabajo 1.9 (Pizza Store).exe.config
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.9 (Pizza Store)\Trabajo 1.9 (Pizza Store)\bin\Debug\Trabajo 1.9 (Pizza Store).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.9 (Pizza Store)\Trabajo 1.9 (Pizza Store)\bin\Debug\Trabajo 1.9 (Pizza Store).pdb
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.9 (Pizza Store)\Trabajo 1.9 (Pizza Store)\obj\Debug\Trabajo 1.9 (Pizza Store).csprojResolveAssemblyReference.cache
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.9 (Pizza Store)\Trabajo 1.9 (Pizza Store)\obj\Debug\Trabajo 1.9 (Pizza Store).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 1.9 (Pizza Store)\Trabajo 1.9 (Pizza Store)\obj\Debug\Trabajo 1.9 (Pizza Store).pdb
