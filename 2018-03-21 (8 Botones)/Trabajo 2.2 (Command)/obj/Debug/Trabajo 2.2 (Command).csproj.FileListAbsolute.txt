@@ -1,0 +1,12 @@
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.2 (Command)\Trabajo 2.2 (Command)\bin\Debug\Trabajo 2.2 (Command).exe.config
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.2 (Command)\Trabajo 2.2 (Command)\bin\Debug\Trabajo 2.2 (Command).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.2 (Command)\Trabajo 2.2 (Command)\bin\Debug\Trabajo 2.2 (Command).pdb
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.2 (Command)\Trabajo 2.2 (Command)\obj\Debug\Trabajo 2.2 (Command).csprojResolveAssemblyReference.cache
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.2 (Command)\Trabajo 2.2 (Command)\obj\Debug\Trabajo 2.2 (Command).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.2 (Command)\Trabajo 2.2 (Command)\obj\Debug\Trabajo 2.2 (Command).pdb
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.3 (8 bttn Controller)\Trabajo 2.2 (Command)\bin\Debug\Trabajo 2.2 (Command).exe.config
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.3 (8 bttn Controller)\Trabajo 2.2 (Command)\obj\Debug\Trabajo 2.2 (Command).exe
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.3 (8 bttn Controller)\Trabajo 2.2 (Command)\obj\Debug\Trabajo 2.2 (Command).pdb
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.3 (8 bttn Controller)\Trabajo 2.2 (Command)\bin\Debug\Trabajo 2.2 (Command).exe
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.3 (8 bttn Controller)\Trabajo 2.2 (Command)\bin\Debug\Trabajo 2.2 (Command).pdb
+Z:\OneDrive\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.3 (8 bttn Controller)\Trabajo 2.2 (Command)\obj\Debug\Trabajo 2.2 (Command).csprojResolveAssemblyReference.cache
