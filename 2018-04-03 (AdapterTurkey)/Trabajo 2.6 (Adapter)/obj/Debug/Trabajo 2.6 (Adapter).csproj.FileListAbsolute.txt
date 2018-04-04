@@ -1,0 +1,6 @@
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.6 (Adapter)\Trabajo 2.6 (Adapter)\bin\Debug\Trabajo 2.6 (Adapter).exe.config
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.6 (Adapter)\Trabajo 2.6 (Adapter)\bin\Debug\Trabajo 2.6 (Adapter).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.6 (Adapter)\Trabajo 2.6 (Adapter)\bin\Debug\Trabajo 2.6 (Adapter).pdb
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.6 (Adapter)\Trabajo 2.6 (Adapter)\obj\Debug\Trabajo 2.6 (Adapter).csprojResolveAssemblyReference.cache
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.6 (Adapter)\Trabajo 2.6 (Adapter)\obj\Debug\Trabajo 2.6 (Adapter).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.6 (Adapter)\Trabajo 2.6 (Adapter)\obj\Debug\Trabajo 2.6 (Adapter).pdb
