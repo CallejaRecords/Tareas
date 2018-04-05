@@ -1,0 +1,6 @@
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.8 (Facade)\Trabajo 2.8 (Facade)\bin\Debug\Trabajo 2.8 (Facade).exe.config
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.8 (Facade)\Trabajo 2.8 (Facade)\bin\Debug\Trabajo 2.8 (Facade).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.8 (Facade)\Trabajo 2.8 (Facade)\bin\Debug\Trabajo 2.8 (Facade).pdb
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.8 (Facade)\Trabajo 2.8 (Facade)\obj\Debug\Trabajo 2.8 (Facade).csprojResolveAssemblyReference.cache
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.8 (Facade)\Trabajo 2.8 (Facade)\obj\Debug\Trabajo 2.8 (Facade).exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\Trabajo 2.8 (Facade)\Trabajo 2.8 (Facade)\obj\Debug\Trabajo 2.8 (Facade).pdb
